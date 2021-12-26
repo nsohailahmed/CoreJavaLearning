@@ -6,6 +6,12 @@ public class HelloJava {
 		
 		System.out.println("Hello Java");
 		
+		System.out.println(StaticAndNonStaticLearning.title);
+		
+		StaticAndNonStaticLearning learning = new StaticAndNonStaticLearning();
+		
+		System.out.println(learning.getAction());
+		
 	}
 
 }

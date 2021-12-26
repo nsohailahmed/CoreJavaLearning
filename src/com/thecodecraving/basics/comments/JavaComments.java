@@ -12,14 +12,16 @@ public class JavaComments {
 		
 		System.out.println("1. Single line comment");
 		
-		//Hi, I am single line comment
+		// Hi, I am single line comment
 		
 		System.out.println("2. Multiline comment");
 		
 		/*
+		 
 		 This is 
 		 multiline comment
-		 */
+		
+		*/
 		 
 		System.out.println("3. Documentation comment");
 		/**

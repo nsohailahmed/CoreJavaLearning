@@ -11,7 +11,7 @@ public class BlocksExample {
 	}
 	
 	public static void main(String[] args) {
-		
+		new BlocksExample();
 	}
 
 }

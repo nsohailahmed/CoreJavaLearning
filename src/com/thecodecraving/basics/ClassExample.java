@@ -2,7 +2,7 @@ package com.thecodecraving.basics;
 
 public class ClassExample {
 	
-	int propertyOne = 1;
+	int propertyOne = 1;//instance variable or property
 	int properetyTwo = 2;
 	String state = "Active";
 	

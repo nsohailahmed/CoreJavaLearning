@@ -1,5 +1,13 @@
 package com.thecodecraving.basics;
 
+
+/**
+ * 
+ * @author sohailah
+ * 
+ * Purpose : This class will explain methods in java 
+ *
+ */
 public class MethodLearning {
 	
 	
